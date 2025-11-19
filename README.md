@@ -82,3 +82,5 @@ Frontend runs on http://localhost:5173
 - Supabase (PostgreSQL)
 - Bcrypt
 - Zod validation
+##<img width="1901" height="842" alt="5" src="https://github.com/user-attachments/assets/0035ceae-3fd1-4625-95f9-65a3a191bf9f" />
+
